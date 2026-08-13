@@ -16,4 +16,4 @@
 ## 🔗 Languages
 [Python](#-python) | [Java](#-java) | [JavaScript](#-javascript)
 
-**Bold** *Italic* `inline code`
+
